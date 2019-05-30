@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/miguel/genderPrediction/modelsUTK_VGG19/bestModel/bestModel"
+all_model_checkpoint_paths: "/home/miguel/genderPrediction/modelsUTK_VGG19/lastModel/lastModel"
+all_model_checkpoint_paths: "/home/miguel/genderPrediction/modelsUTK_VGG19/bestModel/bestModel"
